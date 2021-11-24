@@ -1,0 +1,14 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+
+.btn {
+    background-color: transparent;
+	color: #ffffff;
+	font-size: 5em;
+	border: none;
+	opacity: 0.3;
+	transition: 0.2s;
+}
+
+.btn:hover {
+    opacity: 1;
+}

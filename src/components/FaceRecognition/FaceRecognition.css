@@ -1,0 +1,14 @@
+.bounding-box {
+    transition: 0.2s;
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    cursor: pointer;
+}
+
+.bounding-box:hover {
+    box-shadow: 0 0 0 3px #c7310c inset;
+}
+
+.bounding-box:active {
+    box-shadow: 0 0 0 3px #149df2 inset;
+}
